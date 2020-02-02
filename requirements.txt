@@ -7,6 +7,5 @@ sympy
 psutil
 emoji
 wikipedia
-cr-py
 urban-async
 safygiphy
